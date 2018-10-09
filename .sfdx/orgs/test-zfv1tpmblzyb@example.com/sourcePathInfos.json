@@ -1,0 +1,227 @@
+[
+    [
+        "c:\\JoJoZhao\\vscodeWorkspace\\sfdx-simple\\force-app",
+        {
+            "state": "u",
+            "sourcePath": "c:\\JoJoZhao\\vscodeWorkspace\\sfdx-simple\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539060651808,
+            "changeTime": 1539060651808,
+            "contentHash": "afa93b7c40deab8cdbd247350ad17a9bc39369cd",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\JoJoZhao\\vscodeWorkspace\\sfdx-simple\\force-app\\main",
+        {
+            "state": "u",
+            "sourcePath": "c:\\JoJoZhao\\vscodeWorkspace\\sfdx-simple\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539060651805,
+            "changeTime": 1539060651805,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\JoJoZhao\\vscodeWorkspace\\sfdx-simple\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "c:\\JoJoZhao\\vscodeWorkspace\\sfdx-simple\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539060651807,
+            "changeTime": 1539060651807,
+            "contentHash": "0803afd433bedf4fb3c621888196f3a590a9c016",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\JoJoZhao\\vscodeWorkspace\\sfdx-simple\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "c:\\JoJoZhao\\vscodeWorkspace\\sfdx-simple\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539060651806,
+            "changeTime": 1539060651806,
+            "contentHash": "76e289d2d4d831eba496e8b44dc7ba02f2756b15",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\JoJoZhao\\vscodeWorkspace\\sfdx-simple\\force-app\\main\\default\\classes\\DemoController.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\JoJoZhao\\vscodeWorkspace\\sfdx-simple\\force-app\\main\\default\\classes\\DemoController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 957,
+            "modifiedTime": 1539060651806,
+            "changeTime": 1539060651806,
+            "contentHash": "d0ebcdcf7038d0fe886fcbe5b60d1e90d1d40951",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\JoJoZhao\\vscodeWorkspace\\sfdx-simple\\force-app\\main\\default\\classes\\DemoController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\JoJoZhao\\vscodeWorkspace\\sfdx-simple\\force-app\\main\\default\\classes\\DemoController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 177,
+            "modifiedTime": 1539060651807,
+            "changeTime": 1539060651807,
+            "contentHash": "d1db78898fac7cd8e7bf53bbf5f457c59318d685",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\JoJoZhao\\vscodeWorkspace\\sfdx-simple\\force-app\\main\\default\\pages",
+        {
+            "state": "u",
+            "sourcePath": "c:\\JoJoZhao\\vscodeWorkspace\\sfdx-simple\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539060651808,
+            "changeTime": 1539060651808,
+            "contentHash": "8321bf938eae81fc8c55f4bafb5c03e963cd1dbb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\JoJoZhao\\vscodeWorkspace\\sfdx-simple\\force-app\\main\\default\\pages\\DemoPage.page",
+        {
+            "state": "u",
+            "sourcePath": "c:\\JoJoZhao\\vscodeWorkspace\\sfdx-simple\\force-app\\main\\default\\pages\\DemoPage.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1589,
+            "modifiedTime": 1539060651808,
+            "changeTime": 1539060651808,
+            "contentHash": "40b01ddd0e7400a56f2aec05d63fa7cacbe5cdf3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\JoJoZhao\\vscodeWorkspace\\sfdx-simple\\force-app\\main\\default\\pages\\DemoPage.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\JoJoZhao\\vscodeWorkspace\\sfdx-simple\\force-app\\main\\default\\pages\\DemoPage.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 281,
+            "modifiedTime": 1539060651808,
+            "changeTime": 1539060651808,
+            "contentHash": "191b7b49953e47befa9a2b51cc0cd52158c35eb0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\JoJoZhao\\vscodeWorkspace\\sfdx-simple\\force-app\\test",
+        {
+            "state": "u",
+            "sourcePath": "c:\\JoJoZhao\\vscodeWorkspace\\sfdx-simple\\force-app\\test",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539060651809,
+            "changeTime": 1539060651809,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\JoJoZhao\\vscodeWorkspace\\sfdx-simple\\force-app\\test\\default",
+        {
+            "state": "u",
+            "sourcePath": "c:\\JoJoZhao\\vscodeWorkspace\\sfdx-simple\\force-app\\test\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539060651809,
+            "changeTime": 1539060651809,
+            "contentHash": "1adaa84dc07a16d34ede5b9a70713ff832a0f853",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\JoJoZhao\\vscodeWorkspace\\sfdx-simple\\force-app\\test\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "c:\\JoJoZhao\\vscodeWorkspace\\sfdx-simple\\force-app\\test\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539060651810,
+            "changeTime": 1539060651810,
+            "contentHash": "5144f1861400212c6d4a274d925b0ff04bede7bb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\JoJoZhao\\vscodeWorkspace\\sfdx-simple\\force-app\\test\\default\\classes\\DemoControllerTests.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\JoJoZhao\\vscodeWorkspace\\sfdx-simple\\force-app\\test\\default\\classes\\DemoControllerTests.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 653,
+            "modifiedTime": 1539060651809,
+            "changeTime": 1539060651809,
+            "contentHash": "12dc84af33edd0000600a1d9ca52a72cebf3cedd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\JoJoZhao\\vscodeWorkspace\\sfdx-simple\\force-app\\test\\default\\classes\\DemoControllerTests.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\JoJoZhao\\vscodeWorkspace\\sfdx-simple\\force-app\\test\\default\\classes\\DemoControllerTests.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1539060651810,
+            "changeTime": 1539060651810,
+            "contentHash": "36653e7488879c0ed6d7bd08805295fa678ca822",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\JoJoZhao\\vscodeWorkspace\\sfdx-simple",
+        {
+            "state": "u",
+            "sourcePath": "c:\\JoJoZhao\\vscodeWorkspace\\sfdx-simple",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539063272354,
+            "changeTime": 1539063272354,
+            "contentHash": "27922047d0e1aff6e11f6ee4817abc25c12ada99",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
